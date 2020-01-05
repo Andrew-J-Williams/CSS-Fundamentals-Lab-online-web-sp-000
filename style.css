@@ -33,7 +33,8 @@ figcaption {
 }
 
 #featured-property p {
-  display: inline-block;
   width: 800px;
-  text-align: center;
+ text-align: center;
+ margin: auto;
+ padding-bottom: 10px;
 }
