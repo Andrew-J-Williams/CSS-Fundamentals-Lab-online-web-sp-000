@@ -35,5 +35,6 @@ figcaption {
 }
 
 #featured-property p {
-  font-size: 50px;
+  text-align: center;
+  width: 800px;
 }
