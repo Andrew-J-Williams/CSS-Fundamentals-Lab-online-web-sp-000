@@ -32,10 +32,6 @@ figcaption {
   text-align: center;
 }
 
-#featured-property{
-  justify-content: center;
-}
-
 #featured-property p {
   max-width: 800px;
   text-align: center;
