@@ -18,3 +18,7 @@ nav {
   text-align: center;
   word-spacing: 10px;
 }
+
+nav a {
+  background-color: gray;
+}
