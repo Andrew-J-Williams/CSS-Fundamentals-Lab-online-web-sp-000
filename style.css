@@ -14,8 +14,11 @@ img {
   margin: 0 auto;
 }
 
-nav a {
+nav {
   text-align: center;
   word-spacing: 10px;
+}
+
+nav a {
   background-color: gray;
 }
