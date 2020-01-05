@@ -35,5 +35,5 @@ figcaption {
 #featured-property p {
   text-align: center;
   display: inline-block;
-  max-width: 800px;
+  width: 800px;
 }
