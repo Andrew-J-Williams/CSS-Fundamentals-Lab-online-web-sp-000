@@ -38,3 +38,14 @@ figcaption {
   margin: auto;
   padding-bottom: 10px;
 }
+
+#details {
+  display: block;
+}
+
+#details div {
+  background-color: red;
+  float: left;
+  text-align: center;
+  width: 25%;
+}
